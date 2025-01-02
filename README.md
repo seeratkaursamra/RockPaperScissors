@@ -26,4 +26,4 @@ A fun and interactive implementation of the classic game **Rock Paper Scissors**
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/seeratkaursamra/RockPaperScissors.git
+   (https://seeratkaursamra.github.io/RockPaperScissors)
